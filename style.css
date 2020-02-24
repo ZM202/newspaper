@@ -1,0 +1,129 @@
+/* .maincontainer{
+   
+}  */
+body{
+    margin: 0;
+}
+
+div{
+    column-count: 3;
+    column-gap: 75px;
+    column-rule-width: 1px;
+
+}
+.title{
+    display: flex;
+    justify-content: center;
+    font: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
+
+}  
+
+.othertitles{
+    display: flex;
+    text-orientation: horizontal;
+    height: 100%;
+    width: 100%;
+    justify-content: space-evenly;
+    margin: 20px;
+    border-bottom: 1px solid gray;
+  
+}
+.h1{
+
+}
+
+.jacobsauthor{
+    display: block;
+    text-align: left;
+
+}
+.smallville{
+
+    display: block;
+    column-width: 100px;
+    word-wrap:break-word;
+    margin-top: 0;
+    margin-bottom: 2em;
+    text-align: left;
+
+
+}
+/* .blueprint{
+    display: flex;
+    /* justify-content: right;  */
+    /* padding: -900px;  */
+    /* margin-left: 0 0 250px 100px; 
+    max-width: 250px;
+    height: auto;
+    object-fit: contain;
+    align: left; 
+    position: relative;
+    bottom: 300px; 
+
+/* } */ 
+.blueprint{
+    display: flex;
+    justify-content: left;
+    position:relative;
+    top: 200px;
+    max-width:0px;
+    height:300px;
+    border:10px;
+    border-radius:5px; 
+    
+/* 
+.h2{
+
+}
+.romantikauthor{
+
+}
+.vmsg{
+
+}
+/* .love{
+    display: flex;
+    justify-content: center;
+    padding: -100px;
+    /* margin-left: 0 0 0 100px; */
+    /* max-width: 70%;
+    height: auto;
+    object-fit: contain;
+    /* align: left; */
+    /* position: relative;
+    bottom: 0px; */ 
+/* } */
+
+.love{
+    display: flex;
+    justify-content: center;
+    position:relative;
+	top:55%;
+	left:25%;
+	width:35px;
+	height:auto;
+	border:4px;
+    border-radius:8px;
+} 
+	 
+/* img{
+    display: flex;
+    justify-content: right;
+    padding: -500px;
+    margin-left: 0 0 0 100px;
+    width: 400%;
+    height: auto;
+    object-fit: contain;
+    align: left;
+    /* z-index: 1000; */
+    /* position: relative;
+     */
+
+.h3{
+
+}
+.ltn{
+
+}
